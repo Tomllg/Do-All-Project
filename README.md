@@ -12,6 +12,6 @@ It's a multi-fonctionality program, with simple games, or tutorial, to learn bas
 - game (find the number between 0-1000);
 - shortcuts tutorial;
 - identification;
-- draw a square (with x, y parameters as height, width)).
+- draw a square (with x, y parameters as height, width).
 
 Destinated to beginners.
